@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 shaun robinson - fitness n health
 American life
 Lead
@@ -5,3 +6,5 @@ DOAC - Diary of a CEO
 School of Greatness
 Gary vee
 Simon Sinek
+=======
+>>>>>>> silence
